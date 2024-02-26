@@ -21,6 +21,7 @@ const songs = [
 	'eu_so_quero_um_xodo',
 	'o_canto_da_cidade',
 	'ombrin',
+	'palco',
 	'por_supuesto',
 	'tristeza'
 ];
