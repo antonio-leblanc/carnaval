@@ -14,7 +14,9 @@ const durTime = document.querySelector('#durTime');
 // Song titles
 const songs = [
 	'100_voce',
+	'canto_das_tres_racas',
 	'eu_so_quero_um_xodo',
+	'o_canto_da_cidade',
 	'ombrin',
 	'por_supuesto'
 ];
