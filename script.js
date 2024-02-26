@@ -18,7 +18,8 @@ const songs = [
 	'eu_so_quero_um_xodo',
 	'o_canto_da_cidade',
 	'ombrin',
-	'por_supuesto'
+	'por_supuesto',
+	'tristeza'
 ];
 
 // Keep track of song
