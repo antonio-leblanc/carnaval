@@ -14,6 +14,7 @@ const durTime = document.querySelector('#durTime');
 // Song titles
 const songs = [
 	'100_voce',
+	'anunciacao',
 	'ara_ketu_bom_demais',
 	'canto_das_tres_racas',
 	'eu_so_quero_um_xodo',
