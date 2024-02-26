@@ -13,7 +13,10 @@ const durTime = document.querySelector('#durTime');
 
 // Song titles
 const songs = [
-	'100_voce'
+	'100_voce',
+	'eu_so_quero_um_xodo',
+	'ombrin',
+	'por_supuesto'
 ];
 
 // Keep track of song
