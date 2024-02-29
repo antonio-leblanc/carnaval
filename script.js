@@ -17,6 +17,7 @@ const songs = [
 	'anunciacao',
 	'ara_ketu_bom_demais',
 	'asa_branca',
+'	banho_de_folhas',
 	'canto_das_tres_racas',
 	'eu_so_quero_um_xodo',
 	'o_canto_da_cidade',
