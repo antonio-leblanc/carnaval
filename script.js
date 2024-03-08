@@ -19,9 +19,11 @@ const songs = [
 	'	banho_de_folhas',
 	'canto_das_tres_racas',
 	'eu_so_quero_um_xodo',
+	'mama_africa',
 	'o_canto_da_cidade',
 	'ombrin',
 	'palco',
+	'palpite',
 	'por_supuesto',
 	'tristeza'
 ];
