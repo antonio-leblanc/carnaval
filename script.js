@@ -14,6 +14,7 @@ const durTime = document.querySelector('#durTime');
 // Song titles
 const songs = [
 	'a_francesa',
+	'andei_so',
 	'anunciacao',
 	'ara_ketu_bom_demais',
 	'asa_branca',
