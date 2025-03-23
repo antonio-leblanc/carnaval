@@ -24,6 +24,7 @@ const songs = [
 	'bloco_na_rua',
 	'boa_sorte',
 	'canto_das_tres_racas',
+	'danca_da_manivela',
 	'eu_so_quero_um_xodo',
 	'mama_africa',
 	'o_canto_da_cidade',
