@@ -20,6 +20,7 @@ const songs = [
 	'asa_branca',
 	'azul',
 	'banho_de_folhas',
+	'bate_lata',
 	'bloco_na_rua',
 	'boa_sorte',
 	'canto_das_tres_racas',
